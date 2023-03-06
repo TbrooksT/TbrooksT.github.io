@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tao Ruijie (陶睿杰)"
 description              : "PhD student at National University of Singapore"
-repository               : "taoruijie.github.io"
+repository               : "TbrooksT.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tao Ruijie"
+  name             : "TbrooksT"
   avatar           : "images/my_pic.jpg"
   bio              : "[Curriculum Vitae]"
   location         : "Singapore"
